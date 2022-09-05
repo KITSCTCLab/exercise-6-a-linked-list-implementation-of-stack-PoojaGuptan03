@@ -20,7 +20,7 @@ class Stack:
   def pop(self) -> None:
     if self.head == None:
       pass
-    else
+    else:
       self.head = self.head.next
 
   def status(self):
